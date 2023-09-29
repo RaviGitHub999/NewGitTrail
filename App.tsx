@@ -6,6 +6,7 @@ export class App extends Component {
     return (
       <View>
         <Text>App</Text>
+        <Text>App1</Text>
       </View>
     )
   }
