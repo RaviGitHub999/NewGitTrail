@@ -7,6 +7,7 @@ export class App extends Component {
       <View>
         <Text> textInComponent </Text>
         <Text>Ravi</Text>
+        <Text>kasdjfj</Text>
       </View>
     )
   }
