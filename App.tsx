@@ -6,6 +6,7 @@ export class App extends Component {
     return (
       <View>
         <Text> textInComponent </Text>
+        <Text>Ravi</Text>
       </View>
     )
   }
