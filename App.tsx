@@ -5,9 +5,7 @@ export class App extends Component {
   render() {
     return (
       <View>
-        <Text> textInComponent </Text>
-        <Text>Ravi</Text>
-        <Text>kasdjfj</Text>
+        <Text>App</Text>
       </View>
     )
   }
